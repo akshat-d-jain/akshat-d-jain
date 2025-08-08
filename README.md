@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat D Jain</h1>
-<h3 align="center">A 6th Semester AIML Engineering Student | Passionate about AI & Full-Stack Development</h3>
+<h3 align="center">A 7th Semester AIML Engineering Student | Passionate about AI & Full-Stack Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshat-d-jain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,8 +9,8 @@
 
 🌟 **About Me**
 
-- 🔭 Currently working on **Fraud Detection and Litigation Risk Analysis in Financial Documents**
-- 🌱 Exploring **Reinforcement Learning, GANs, and Full-Stack Development**
+- 🔭 Currently working on **Something that is revolutionary**
+- 🌱 Exploring **Agentic AI, Multimodal AI, TechInGeneral, Data**
 - 💬 Ask me about **DSA, Data Science, NLP, Deep Learning, and Full-Stack Development**
 - 📫 Reach me at **akshatdjain1104@gmail.com**
 - ⚡ Fun fact: **I love merging AI with real-world applications**
